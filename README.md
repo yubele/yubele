@@ -15,7 +15,7 @@ https://syukei-san.xyz
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=yubele&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
 </a>
 <a href="https://newsdict.io">
-  <img alight="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yubele&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&layout=compact" />
+  <img alight="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yubele&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&layout=compact&&langs_count=20" />
 </a>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yubele&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://newsdict.io)
