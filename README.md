@@ -1,5 +1,5 @@
 ## Products
-Supported by Microsoft Startups.
+Supported by Microsoft For Startup.
 
 ### Slidict.io
 テキストでスライドを簡単に作成
